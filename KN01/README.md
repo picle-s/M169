@@ -8,7 +8,7 @@ SSH-Keys für Github
 Hier ein kleiner Teil des Github repositorys
 ![alt text](../images/githubrepository.png)
 ## 4 Teil Leistungsnachwei
-### 1
+### Teil 1 Bashteil
 Der Arbeitspfad
 ![alt text](../images/image4.png)
 Geöffnete Datei ``challanges-info.txt``
@@ -16,7 +16,7 @@ Geöffnete Datei ``challanges-info.txt``
 Gelöschtes Verzeichnis ``Linux-Challange``
 ![alt text](../images/image6.png)
 
-### 2
+### Teil 2 VS Codesteil
 Hier sind die VsCode Extentions
 ![alt text](../images/image7.png)
 Hier sieht man die Commands, zum Pushen, Stagen, und man sieht auch noch der Commit-Tree
