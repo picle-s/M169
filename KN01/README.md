@@ -6,7 +6,9 @@ SSH-Keys für Github
 ![alt text](../images/image3.png)
 ## 3 Teil Leistungsnachweis
 Hier ein kleiner Teil des Github repositorys
+- - -
 ![alt text](../images/githubrepository.png)
+- - -
 ## 4 Teil Leistungsnachwei
 ### Teil 1 Bashteil
 Der Arbeitspfad
