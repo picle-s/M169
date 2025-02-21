@@ -4,23 +4,23 @@
 
 <br>
 
-![**Eigenes Titelbild**](./images/titelbild.png) <mark>_(Ergänzen Sie hier ihr eigenes Titelbild - Landscape, max. 1200px. Selber erstellen, im **./images** ablegen und verlinken)_</mark>
+![**Eigenes Titelbild**](./images/titelbild.png)
 
 # M169 Repository
 
 [TOC]
 
 ## Einleitung
-<mark>_Summary mit sinnvollen Erklärungen zum Modul 169. Dazu kann auch ein Large Language Model wie ChatGPT oder Copilot genutzt werden_</mark>
+Im Modul 169 geht es darum Container Aufsetzen, maintainen und Sicher halten.
 
 ## Kompetenznachweise
-<mark>_Unterverzeichnisse für jeden Kompetenznachweis erstellen und darin wiederum ein README.md und zugehörigen Content_</mark>
 
-- [**KN01**](./KN01/README.md)  <mark>_(Den Ordner **KN01** und das zugehörige **README.md** müssen Sie selber erstellen)_</mark>
-- [**KN02**](./KN02/README.md)  <mark>_(Den Ordner **KN02** und das zugehörige **README.md** müssen Sie selber erstellen)_</mark>
-- [**KN03**](./KN03/README.md)  <mark>_(Den Ordner **KN03** und das zugehörige **README.md** müssen Sie selber erstellen)_</mark>
-- [**KN04**](./KN04/README.md)  <mark>_(Den Ordner **KN04** und das zugehörige **README.md** müssen Sie selber erstellen)_</mark>
-- [**images**](./images) <mark>_(Den Ordner **images** müssen Sie selber erstellen. Dieser ist für Bilder oder Screenshots für das Gesamtprojekt. Also alles, ausser LB2-Pics/Screenshots)_</mark>
+
+- [**KN01**](./KN01/README.md)
+- [**KN02**](./KN02/README.md)
+- [**KN03**](./KN03/README.md)
+- [**KN04**](./KN04/README.md)
+- [**images**](./images)
 
 ## LB2 Projekt
 <mark>_Unterverzeichnis **/LB2**. Darin das **README.md** mit folgender Struktur_</mark>
