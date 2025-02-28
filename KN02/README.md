@@ -15,3 +15,11 @@ Beispiele: **AWS EC2**
 - **PaaS**
 PaaS bietet hingegen eine vollständige Entwicklungsumgebung bereit.
 Der Bentutzer 
+## Vergleich
+| Aspekt | IaaS | PaaS |
+| --------- | ---- | ---- |
+| Verwaltung der Infrastruktur | Benutzer                       |Cloud-Anbieter                        |
+| Betriebssystempflege         | Benutzer                       | Cloud-Anbieter                        |
+| Skalierung & Ressourcen      | Manuell durch Benutzer         | Automatisiert durch Cloud-Anbieter    |
+| Hauptnutzer                  | Systemadministratoren, DevOps  | Entwickler, Software-Teams            |
+| Beispiel                     | AWS EC2, Google Compute Engine | Google App Engine, Azure App Services | 
