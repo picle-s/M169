@@ -23,3 +23,63 @@ Der Bentutzer
 | Skalierung & Ressourcen      | Manuell durch Benutzer         | Automatisiert durch Cloud-Anbieter    |
 | Hauptnutzer                  | Systemadministratoren, DevOps  | Entwickler, Software-Teams            |
 | Beispiel                     | AWS EC2, Google Compute Engine | Google App Engine, Azure App Services | 
+
+# Teil 2
+
+## Teil 2 Aufgabe 1
+
+### **Vorteile der automatischen Konfiguration**
+
+- Konsistenz & Wiederholbarkeit
+- Zeitersparnis & Skalierbarkeit
+- Reduzierung menschlicher Fehler
+- Versionierbarkeit & Nachvollziehbarkeit
+
+### **Infrastructure as Code (IaC)**
+
+IaC bedeutet, IT-Infrastruktur per Code zu verwalten, anstatt manuell zu konfigurieren.
+
+**Vorteile:**
+
+- Automatisierte Bereitstellung
+- Skalierbarkeit & Portabilität
+- Versionierte Verwaltung
+
+## Teil 2 Aufgabe 2
+
+Tools für IaC
+
+#### Docker
+
+- Containerisierung von Anwendungen
+- Portabilität & Ressourcenschonung
+
+**Use-Case:**
+
+- Bereitstellung von Microservices
+
+#### Terraform
+
+- Verwaltung von Infrastruktur als Code
+- Multi-Cloud-Support
+
+**Use-Case:**
+- Automatische Cloud-Bereitstellung
+
+### Kubernetes & Container-Orchestrierung
+
+#### Kubernetes
+
+- Automatisierte Verwaltung von Containern
+- Skalierung & Selbstheilung
+
+**Use-Case:**
+- Verwaltung von Microservices
+
+#### Container-Orchestrierung
+
+- Verwaltung großer Container-Umgebungen
+- Automatische Skalierung & Fehlerbehebung
+
+**Beispiele:**
+- Kubernetes, Docker Swarm
