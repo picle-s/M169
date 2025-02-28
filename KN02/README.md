@@ -2,7 +2,7 @@
 
 ## challanges  
 
-#### challange 1
+#### Challange 1
 1. Hosting von Virtuellen Machinen gehört zu **IaaS**
 2. Nutzung von Google Docs gehört zu **SaaS**
 3. Die Containerverwaltung mit Kubernetis gehört zu **CaaS**
@@ -83,3 +83,28 @@ Tools für IaC
 
 **Beispiele:**
 - Kubernetes, Docker Swarm
+
+## Teil 3
+
+### Aufgabe 1
+
+
+| Cloud-Anbieter |Regionen | Verfügbarkeitszonen |
+|---|----|-----|
+| AWS |36 | 114 |
+| Azure  | 64 |1-3 pro Region|
+| GCP |41  |124|
+
+
+
+**AWS**
+ 
+Amazon S3 (Simple Storage Service): Ermöglicht kostengünstige und skalierbare Datenspeicherung mit hoher Verfügbarkeit.
+ 
+**Azure**
+ 
+Azure Blob Storage: Skalierbarer Objektspeicher für unstrukturierte Daten.
+ 
+**GCP**
+ 
+Cloud Storage: Einheitliche Speicherlösung für strukturierte und unstrukturierte Daten.
