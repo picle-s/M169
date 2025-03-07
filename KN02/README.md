@@ -1,6 +1,6 @@
 # KN02
 
-## challanges  
+# Teil 1  
 
 #### Challange 1
 1. Hosting von Virtuellen Machinen gehört zu **IaaS**
@@ -37,7 +37,7 @@ Der Bentutzer
 
 ### **Infrastructure as Code (IaC)**
 
-IaC bedeutet, IT-Infrastruktur per Code zu verwalten, anstatt manuell zu konfigurieren.
+IaC bedeutet, IT-Infrastruktur per Code zu verwalten und bereitstellen, anstatt manuell zu konfigurieren.
 
 **Vorteile:**
 
