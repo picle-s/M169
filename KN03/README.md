@@ -78,3 +78,15 @@ CMD ["/usr/sbin/apache2ctl", "-D", "FOREGROUND"]
 
 # Sechste Layer mit allem, was danach drauf passiert.
 ```
+
+![fortune | cowsay](image-1.png)
+
+### Dockerhub push
+![Dockerhub gepushtes Image ](image.png)
+
+# Teil 5, Netzwerk
+Mit ``docker network create mynetwork`` kann man ein Netzwerk erstellen, mit dem Driver **bridge**.
+
+Dannach kann man mit ``docker network inspect mynetwork`` die Einstellungen des Netzwerkes anschauen.
+
+Und dann kann man mit ``docker network connect mynetwork <<container Name>`` ein Belibigen Container mit den Netzwerk verbinden.
