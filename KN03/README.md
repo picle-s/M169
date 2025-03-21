@@ -52,8 +52,19 @@ Hier muss man IP-Adresse, Benutzer und Password eintragen, damit man sich verbin
 Mit ``sudo docker exec -it <<containername>> /bin/bash`` kann man sich mit einem Container verbinden.
 
 # Teil 4
-Um den nginx server zu starten, muss man in das KN03 verzeichnsi gehen und folgendes ausführen: ``docker run -d -p 8080:80 automatisiert:latest``
+Um den nginx server zu starten, muss man in das KN03 verzeichnsi gehen und folgendes ausführen: ``docker run -d -p 80:80 automatisiert:latest``
 
+## index.html file
+![editet index.html](image-4.png)
+
+Hier habe ich den Container gestartet mit dem editierten ``index.html`` file.
+
+## Docker Commit
+``Docker Commit <containerid/containername> <neuimagename>`` erlaubt es dir, ein Images eines laufenden Containers zu erstellen.
+
+Dannach kann man mit ``docker image ls`` die images anzeigen lassen.
+
+Wenn man will, kann man das Image mit ``docker run -it <imagename>``
 ## Image Layering
 
 ```Dockerfile
@@ -90,3 +101,4 @@ Mit ``docker network create mynetwork`` kann man ein Netzwerk erstellen, mit dem
 Dannach kann man mit ``docker network inspect mynetwork`` die Einstellungen des Netzwerkes anschauen.
 
 Und dann kann man mit ``docker network connect mynetwork <<container Name>`` ein Belibigen Container mit den Netzwerk verbinden.
+![Connected Container](image-2.png)
