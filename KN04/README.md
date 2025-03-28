@@ -52,11 +52,11 @@ workernode
 
 
 ## Teil 5
-![alt text](image-21.png)
-![alt text](image-22.png)
 Hier sind alle laufende Container im Stack
 ![alt text](image-31.png)
 Hier habe ich die website mit dem Neuen Port aufgerufen
+![alt text](image-34.png)
+noch ein weiterer Container
 ![alt text](image-30.png)
 Nach update von Replicas sind nur noch 7 aktiv
 ![alt text](image-32.png)
