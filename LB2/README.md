@@ -56,7 +56,7 @@ Unsere Datenbank wird nach dem aktuellen Stand 2 Tabellen haben;
 1. **User Tabelle**: Diese Tabelle enthält alle Informationen zu den Benutzern die unsere Applikation verwenden werden.
    1. **ID**: Wird verwendet um die einzelnen Benutzern unterscheiden zu können. Die IDs sind Einzigartig
    2. **Benutzername**: Da IDs unschön sind, kann jeder Benutzer sich ein Benutzername erstellen, da wir schon IDs haben, können mehrere Benutzer den selben Namen haben.
-   3. **Createt at**: Für Administrative Gründe, ist es noch hilfreich um zu sehen, wann ein Benutzer erstellt worden ist.
+   3. **Created at**: Für Administrative Gründe, ist es noch hilfreich um zu sehen, wann ein Benutzer erstellt worden ist.
    4. **Passwort**: Damit die Benutzer sich sicher anmelden können, hat jeder Benutzer ein Passwort das in der Datenbank geshashed gespeichert wird.
 2. **Notizen Tabelle**: Diese Tabelle wird für das Speichern von den Notizen verwendet.
    1. **ID**: Um Notizen zu Identifizieren, gibt es eine Eindeutige ID für jede  Notiz
